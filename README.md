@@ -1,10 +1,9 @@
 # phZorro
-A free PHP forum system using MariaDB, with the option for getting the full source code.
+A free opensource PHP forum system using MariaDB, with the option for getting the full source code.
 
 Multi language. Very easy to add and change any language by opening the JSON language file.
 
-It is free to use. If you want the full source code of the forum system, just email me, and i will send it to you for a small fee.
-Contact me at support@bynmin.no for getting the the full source code.
+Contact me at support@bynmin.no for more info.
 
 I'm working on finishing the first version.
 
